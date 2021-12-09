@@ -39,7 +39,7 @@
 
             var coveredPoints = GetCoveredPoints(filteredSegments);
 
-            PrintCoveredPointDiagram(coveredPoints);
+            //PrintCoveredPointDiagram(coveredPoints);
 
             return coveredPoints.GroupBy(point => point).Count(pointGroup => pointGroup.Count() >= 2);
         }
