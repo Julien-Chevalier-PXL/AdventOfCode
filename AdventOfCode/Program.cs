@@ -20,6 +20,8 @@
             Console.WriteLine($"Day 6 Part 2: {Day6.GetNumberOfLanternfish()}");
             Console.WriteLine($"Day 7 Part 1: {Day7.GetFuelAmountPart1()}");
             Console.WriteLine($"Day 7 Part 2: {Day7.GetFuelAmount()}");
+            Console.WriteLine($"Day 8 Part 1: {Day8.GetCountEasyDigits()}");
+            Console.WriteLine($"Day 8 Part 2: {Day8.GetSumOfOutputValues()}");
 
             Console.WriteLine("Goodbye World!");
         }
