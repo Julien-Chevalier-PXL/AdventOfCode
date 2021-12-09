@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode
+namespace AdventOfCode
 {
     using System;
 
@@ -22,6 +22,8 @@
             Console.WriteLine($"Day 7 Part 2: {Day7.GetFuelAmount()}");
             Console.WriteLine($"Day 8 Part 1: {Day8.GetCountEasyDigits()}");
             Console.WriteLine($"Day 8 Part 2: {Day8.GetSumOfOutputValues()}");
+            Console.WriteLine($"Day 9 Part 1: {Day9.GetSumOfRiskOfLowPoints()}");
+            Console.WriteLine($"Day 9 Part 2: {Day9.GetProductOfThreeLargestBasins()}");
 
             Console.WriteLine("Goodbye World!");
         }
