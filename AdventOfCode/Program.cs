@@ -26,6 +26,8 @@ namespace AdventOfCode
             Console.WriteLine($"Day 9 Part 2: {Day9.GetProductOfThreeLargestBasins()}");
             Console.WriteLine($"Day 10 Part 1: {Day10.GetTotalSyntaxErrorScore()}");
             Console.WriteLine($"Day 10 Part 2: {Day10.GetTotalAutocompletionScore()}");
+            Console.WriteLine($"Day 11 Part 1: {Day11.GetTotalFlashes()}");
+            Console.WriteLine($"Day 11 Part 2: {Day11.GetFirstFlashSync()}");
 
             Console.WriteLine("Goodbye World!");
         }
