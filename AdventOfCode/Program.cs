@@ -28,6 +28,8 @@ namespace AdventOfCode
             Console.WriteLine($"Day 10 Part 2: {Day10.GetTotalAutocompletionScore()}");
             Console.WriteLine($"Day 11 Part 1: {Day11.GetTotalFlashes()}");
             Console.WriteLine($"Day 11 Part 2: {Day11.GetFirstFlashSync()}");
+            Console.WriteLine($"Day 13 Part 1: {Day13.GetNumberOfDotsAfterFirstFold()}");
+            Console.WriteLine($"Day 13 Part 2: {Day13.GetNumberOfDots()}");
 
             Console.WriteLine("Goodbye World!");
         }
