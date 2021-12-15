@@ -34,6 +34,7 @@ namespace AdventOfCode
             Console.WriteLine($"Day 13 Part 2: {Day13.GetNumberOfDots()}");
             Console.WriteLine($"Day 14 Part 1: {Day14.GetQuantitySubstraction(10)}");
             Console.WriteLine($"Day 14 Part 2: {Day14.GetQuantitySubstraction(40)}");
+            Console.WriteLine($"Day 15 Part 1: {Day15.GetLowestTotalRisk()}");
 
             Console.WriteLine("Goodbye World!");
         }
