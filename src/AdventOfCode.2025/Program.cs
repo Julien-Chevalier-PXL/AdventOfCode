@@ -24,8 +24,14 @@ var d4p2 = Day4.Part2(File.ReadAllLines(@"./Inputs/Day4.txt"));
 Console.WriteLine($"Day 4 Part 1: {d4p1}");
 Console.WriteLine($"Day 4 Part 2: {d4p2}");
 */
-
+/*
 var d5p1 = Day5.Part1(File.ReadAllLines(@"./Inputs/Day5.txt"));
 var d5p2 = Day5.Part2(File.ReadAllLines(@"./Inputs/Day5.txt"));
 Console.WriteLine($"Day 5 Part 1: {d5p1}");
 Console.WriteLine($"Day 5 Part 2: {d5p2}");
+*/
+
+var d7p1 = Day7.Part1(File.ReadAllLines(@"./Inputs/Day7.txt"));
+var d7p2 = Day7.Part2(File.ReadAllLines(@"./Inputs/Day7.small.txt"));
+Console.WriteLine($"Day 7 Part 1: {d7p1}");
+Console.WriteLine($"Day 7 Part 2: {d7p2}");
