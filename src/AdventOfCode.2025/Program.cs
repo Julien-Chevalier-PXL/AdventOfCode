@@ -1,4 +1,4 @@
-﻿using AdventOfCode._2025.Days;
+using AdventOfCode._2025.Days;
 
 /*
 var d1p1 = Day1.GetPassword(File.ReadAllLines(@"./Inputs/Day1.txt"));
@@ -29,6 +29,12 @@ var d5p1 = Day5.Part1(File.ReadAllLines(@"./Inputs/Day5.txt"));
 var d5p2 = Day5.Part2(File.ReadAllLines(@"./Inputs/Day5.txt"));
 Console.WriteLine($"Day 5 Part 1: {d5p1}");
 Console.WriteLine($"Day 5 Part 2: {d5p2}");
+*/
+/*
+var d6p1 = Day6.Part1(File.ReadAllLines(@"./Inputs/Day6.txt"));
+var d6p2 = Day6.Part2(File.ReadAllLines(@"./Inputs/Day6.txt"));
+Console.WriteLine($"Day 6 Part 1: {d6p1}");
+Console.WriteLine($"Day 6 Part 2: {d6p2}");
 */
 /*
 var d7p1 = Day7.Part1(File.ReadAllLines(@"./Inputs/Day7.txt"));
